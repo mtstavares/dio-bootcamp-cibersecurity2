@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+laboratorio/chave_demo.key
+laboratorio/logs/
+laboratorio/dados_demo/*.enc
